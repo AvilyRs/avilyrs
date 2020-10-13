@@ -17,4 +17,4 @@
 
 ![Twitter](https://github.com/AvilySlv/avilyslv/blob/master/social/twitter.jpg)
 
-![Instagram](https://github.com/AvilySlv/avilyslv/blob/master/social/twitterinstagram.jpg)
+![Instagram](https://github.com/AvilySlv/avilyslv/blob/master/social/instagram.jpg)
