@@ -10,3 +10,11 @@
 
 
 :heart: Se preencha de compaixão :heart:
+
+![Gmail](https://github.com/AvilySlv/avilyslv/blob/master/social/gmail.jpg)
+
+![Linkedin](https://github.com/AvilySlv/avilyslv/blob/master/social/linkedin.jpg)
+
+![Twitter](https://github.com/AvilySlv/avilyslv/blob/master/social/twitter.jpg)
+
+![Instagram](https://github.com/AvilySlv/avilyslv/blob/master/social/twitterinstagram.jpg)
