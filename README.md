@@ -24,8 +24,3 @@
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
-
-##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avilysva&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avilysva&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
