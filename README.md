@@ -18,8 +18,6 @@
   <img height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   
-  <br />
-  
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -29,4 +27,5 @@
 
 ##
 
-<p align="center">Estamos em manutenção :hugs:</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avilysva&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avilysva&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
