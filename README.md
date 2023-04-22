@@ -14,7 +14,7 @@
     <li>ReactJS, NextJS, React Native</li>
     <li>Typescript, Webpack</li>
     <li>Styled Components, SASS, Tailwind</li>
-    <li>Vitest, Crypress, JestJS</li>
+    <li>Vitest, Cypress, JestJS</li>
   </ul>
 </p>
 
