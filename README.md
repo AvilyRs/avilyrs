@@ -1,35 +1,25 @@
-<h1>🧑‍💻 Hello World!</h1>
+# 🧑‍💻 Hello World!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Sou desenvolvedor Front-end a alguns anos e totalmente apaixonado por tecnologia, aprender e compartilhar conhecimentos. Gosto de assistir filmes, séries e café.
-</p>
+As a specialist Software Engineer focused on contributing to companies that value technology and seek modern and innovative solutions
 
-<hr />
+### Code Ecosystem
+<ul>
+  <li>ReactJS, NextJS, React Native</li>
+  <li>Typescript, Webpack, ESBuild</li>
+  <li>Tailwind, Styled Components, Sass</li>
+  <li>Vitest, Cypress, Jest</li>
+</ul>
 
-<p align="left">
-  🦄 <strong>Bibliotecas e Frameworks</strong>:
-  <ul>
-    <li>ReactJS, NextJS, React Native</li>
-    <li>Typescript, Webpack</li>
-    <li>Styled Components, SASS, Tailwind</li>
-    <li>Vitest, Cypress, JestJS</li>
-  </ul>
-</p>
-
-<p align="left">
-  💼 <strong>Ferramentas</strong>:
-  <ul>
-    <li>VSCode, Figma, Whimsical</li>
-  </ul>
-</p>
+### Personal Tools Ecosystem
+<ul>
+  <li>VSCode, Figma, Notion, Whimsical</li>
+</ul>
 
 <hr />
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+### Let's talk
 
 <p align="left">
   <a href="mailto:avilyre@gmail.com" alt="Gmail">
