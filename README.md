@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-As a specialist Software Engineer focused on contributing to companies that value technology and seek modern and innovative solutions
+I'm a specialist Frontend Software Engineer focused on contributing to companies that value technology and seek modern and innovative solutions
 
 ### Code Ecosystem
 <ul>
